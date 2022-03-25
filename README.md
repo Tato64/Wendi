@@ -8,3 +8,5 @@
 - Informa sobre el clima (Temp. y precipitaciones) y hace una sugerencia de abrigo (Campera/Buzo/Ninguno).  _ADVERTENCIA: Esto es en base a mi preferencia personal y soy todo lo contrario a friolento._
 - Informa el precio del dolar blue y bitcoin.
 - ~~Informa sobre el estado de trenes y subtes~~ *[NO IMPLEMENTADO TODAVIA ya que el registro de la API de transporte publico de la ciudad de BSAS no funciona y no puedo obtener mi token]*
+
+El codigo fuente "Wendi.py" esta en el directorio principal, se puede encontrar un ejecutable en "dist/Wendi.exe"
